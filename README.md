@@ -61,10 +61,10 @@ I'm Abu Huraira. I'm student of BS Software Engineering. I'm here to do Full-Sta
 <br>
 <style>
       image1 {
-   width : 49%;
+   width : 49% !important;
   }
           image2 {
-   width : 49%;
+   width : 49% !important;
   }
 @media only screen and (max-width: 600px) {
   image {
