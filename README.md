@@ -59,8 +59,12 @@ I'm Abu Huraira. I'm student of BS Software Engineering. I'm here to do Full-Sta
   </a>
 </p>
 <br>
+ img {
+    max-width: 49% !important;
+   width : 49% !important;
+  }
 <style>
-      image1 {
+      img {
     max-width: 49% !important;
    width : 49% !important;
   }
