@@ -54,13 +54,21 @@ I'm Abu Huraira. I'm student of BS Software Engineering. I'm here to do Full-Sta
 <br/>
 <p align="left">
   <a href="https://abhigyantrips.dev/">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=iamhuraira&show_icons=true&theme=chartreuse-dark&hide_border=true" />
-    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=iamhuraira&theme=chartreuse-dark&hide_border=true" />
+  <img class="image" src="https://github-readme-stats.vercel.app/api?username=iamhuraira&show_icons=true&theme=chartreuse-dark&hide_border=true" />
+    <img class="image" src="https://github-readme-streak-stats.herokuapp.com/?user=iamhuraira&theme=chartreuse-dark&hide_border=true" />
   </a>
 </p>
 <br>
-
-
+<style>
+      image {
+   width : 49.5%;
+  }
+@media only screen and (max-width: 600px) {
+  image {
+   width : 100%;
+  }
+}
+</style>
 <!-- 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamhuraira)](https://github.com/iamhuraira/github-readme-stats) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
