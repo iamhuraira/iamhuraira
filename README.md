@@ -54,15 +54,18 @@ I'm Abu Huraira. I'm student of BS Software Engineering. I'm here to do Full-Sta
 <br/>
 <p align="left">
   <a href="https://abhigyantrips.dev/">
-  <img class="image" width="49.5%" src="https://github-readme-stats.vercel.app/api?username=iamhuraira&show_icons=true&theme=chartreuse-dark&hide_border=true" />
-    <img class="image" width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=iamhuraira&theme=chartreuse-dark&hide_border=true" />
+  <img class="image1"  src="https://github-readme-stats.vercel.app/api?username=iamhuraira&show_icons=true&theme=chartreuse-dark&hide_border=true" />
+    <img class="image2"  src="https://github-readme-streak-stats.herokuapp.com/?user=iamhuraira&theme=chartreuse-dark&hide_border=true" />
   </a>
 </p>
 <br>
 <style>
-<!--       image {
-   width : 48%;
-  } -->
+      image1 {
+   width : 49%;
+  }
+          image2 {
+   width : 49%;
+  }
 @media only screen and (max-width: 600px) {
   image {
    width : 99% !important;
