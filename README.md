@@ -2,6 +2,11 @@
 
 I'm Abu Huraira. I'm student of BS Software Engineering. I'm here to do Full-Stack Web development for you on your business. 🥇 Over 0.5 years, I have developed a websites using Laravel, PHP, Java, Js, Bootstrap, CSS3, and HTML5 including some my university projects and personal project.
 
+[![Linkedin Badge](https://img.shields.io/badge/Huraira-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/iamhuraira/)
+[![Gmail Badge](https://img.shields.io/badge/iamhuraira@gmail.com-30302f?style=flat&logo=Gmail&logoColor=white)](mailto:iamhuraira429@gmail.com)
+![Profile views](https://komarev.com/ghpvc/?username=iamhuraira&label=PROFILE+VIEWS&style=plastic&color=blue)
+
+
 ### 🛠 &nbsp;Tech Stack
 <!-- 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp; -->
