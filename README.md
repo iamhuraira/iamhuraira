@@ -16,9 +16,10 @@ I'm Abu Huraira. I'm student of BS Software Engineering. I'm here to do Full-Sta
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![CSS](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP&logoColor=1572B6)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP&logoColor=1572B6)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![ReactJs](https://img.shields.io/badge/-React-05122A?style=flat&logo=React&logoColor=61DBFB)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
