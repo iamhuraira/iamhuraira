@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm Abu Huraira. I'm student of BS Software Engineering. I'm here to do Full-Stack Web development for you on your business. 🥇 Over 0.5 years, I have developed a websites using Laravel, PHP, Java, Js, Bootstrap, CSS3, and HTML5 including some my university projects and personal project.
+I'm Abu Huraira. I'm a current Software Engineering undergraduate student looking for an opportunity to put my skills to good use and make a difference. My experience covers web development and full-stack web development in Java, JavaScript, HTML, CSS, and React Js, as well as some PHP and Php MySQL.
+I'm learning the Mern stack in order to advance my skills in the field of cutting-edge technology. I'm always looking for new ways to improve myself.  I'm here to do Full-Stack Web development for you on your business. 
+<!-- 🥇 Over 0.5 years, I have developed a websites using Laravel, PHP, Java, Js, Bootstrap, CSS3, and HTML5 including some my university projects and personal project. -->
 
 [![Linkedin Badge](https://img.shields.io/badge/Huraira-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/iamhuraira/)
 [![Gmail Badge](https://img.shields.io/badge/iamhuraira@gmail.com-30302f?style=flat&logo=Gmail&logoColor=white)](mailto:iamhuraira429@gmail.com)
