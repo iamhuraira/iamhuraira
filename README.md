@@ -73,7 +73,6 @@ I'm learning the Mern stack in order to advance my skills in the field of cuttin
   </a>
 </p>
 <br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamhuraira&theme=chartreuse-dark&hide_border=true" " alt="iamhuraira" /></p>
 
 
 
