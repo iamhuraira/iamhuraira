@@ -11,7 +11,7 @@ I'm learning the Mern stack in order to advance my skills in the field of cuttin
 <!-- 🥇 Over 2 years, I have developed a websites using Laravel, PHP, Java, Js, Bootstrap,  CSS3, and HTML5 including some my university projects and personal project. -->
 
 [![Linkedin Badge](https://img.shields.io/badge/Huraira-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/iamhuraira/)
-[![Gmail Badge](https://img.shields.io/badge/iamhuraira@gmail.com-30302f?style=flat&logo=Gmail&logoColor=white)](mailto:iamhuraira429@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/iamhuraira429@gmail.com-30302f?style=flat&logo=Gmail&logoColor=white)](mailto:iamhuraira429@gmail.com)
 ![Profile views](https://komarev.com/ghpvc/?username=iamhuraira&label=PROFILE+VIEWS&style=plastic&color=blue)
 
 
