@@ -76,7 +76,7 @@ I'm learning the Mern stack in order to advance my skills in the field of cuttin
 <br>
 
 ## Contribution Graph
-![Contribution Graph](./profile-gitblock.svg)
+![](./profile-3d-contrib/profile-green-animate.svg)
 
 
 
