@@ -64,7 +64,7 @@ I'm learning the Mern stack in order to advance my skills in the field of cuttin
 
 
 ## My Statistics
-
+<!--
 <br/>
 <p align="left">
   <a href="https://abhigyantrips.dev/">
@@ -74,15 +74,24 @@ I'm learning the Mern stack in order to advance my skills in the field of cuttin
 </p>
 
 <br>
+--->
+
+<br/>
+<p align="center">
+	<a href="https://github.com/iamhuraira">
+		<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iamhuraira&layout=compact&langs_count=8&theme=algolia"/>
+	</a>
+	<img width="60%" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=iamhuraira&show_icons=true&locale=en&layout=demo&theme=algolia" />
+</p>
 
 ## Contribution Graph
-![](./profile-3d-contrib/profile-green-animate.svg)
+![Contribution Graph](./profile-3d-contrib/profile-gitblock.svg)
 
 
 
 
 
-<div class="repo-card" data-repo="iamhuraira/react-task-tracker"></div>
+<!-- <div class="repo-card" data-repo="iamhuraira/react-task-tracker"></div> -->
 <br>
 
 <!-- 
