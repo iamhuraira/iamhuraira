@@ -72,7 +72,11 @@ I'm learning the Mern stack in order to advance my skills in the field of cuttin
     <img width = "49%" src="https://github-readme-streak-stats.herokuapp.com/?user=iamhuraira&theme=chartreuse-dark&hide_border=true" />
   </a>
 </p>
+
 <br>
+
+## Contribution Graph
+![Contribution Graph](./profile-gitblock.svg)
 
 
 
