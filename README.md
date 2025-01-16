@@ -62,6 +62,7 @@ I'm learning the Mern stack in order to advance my skills in the field of cuttin
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign) -->
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamhuraira&hide_progress=true)
 
 ## My Statistics
 <!--
