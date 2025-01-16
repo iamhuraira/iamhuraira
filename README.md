@@ -61,9 +61,6 @@ I'm learning the Mern stack in order to advance my skills in the field of cuttin
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign) -->
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamhuraira&hide_progress=true)
-
 ## My Statistics
 <!--
 <br/>
@@ -80,7 +77,7 @@ I'm learning the Mern stack in order to advance my skills in the field of cuttin
 <br/>
 <p align="center">
 	<a href="https://github.com/iamhuraira">
-		<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iamhuraira&layout=compact&langs_count=8&theme=algolia"/>
+		<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamhuraira&layout=compact&langs_count=8&theme=algolia"/>
 	</a>
 	<img width="60%" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=iamhuraira&show_icons=true&locale=en&layout=demo&theme=algolia" />
 </p>
